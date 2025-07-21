@@ -1,20 +1,102 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Política de Privacidad - Divisor de Gastos Pro</title>
-  <style>
-    body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; }
-    h1 { color: #333; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Divisor de Gastos Pro</title>
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            line-height: 1.6; 
+            max-width: 800px; 
+            margin: 40px auto; 
+            padding: 20px; 
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        h1, h2 { 
+            color: #222; 
+            line-height: 1.2;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-top: 40px;
+        }
+        p, ul {
+            margin-bottom: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        strong {
+            color: #000;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
 </head>
 <body>
+
     <h1>Política de Privacidad para Divisor de Gastos Pro</h1>
     <p><strong>Última actualización:</strong> 21 de Julio de 2024</p>
-    <p>Gracias por usar "Divisor de Gastos Pro". Tu privacidad es muy importante para nosotros...</p>
-    <!-- ... Pega el resto del texto aquí ... -->
-    <h3>Contacto</h3>
-    <p>Si tienes alguna pregunta... [tu email de contacto]</p>
+    <p>Gracias por usar "Divisor de Gastos Pro". Tu privacidad es muy importante para nosotros. Esta política explica de forma clara qué información manejamos y cómo lo hacemos.</p>
+
+    <h2>1. La Información que Manejamos</h2>
+    <p>Nuestra aplicación está diseñada para ser lo más simple y privada posible.</p>
+    <ul>
+        <li><strong>Datos que introduces:</strong> Recopilamos la información que tú mismo proporcionas para dividir los gastos, como los nombres de los participantes y las cantidades de dinero que cada uno ha pagado.</li>
+        <li><strong>Almacenamiento Local:</strong> Toda esta información se almacena <strong>exclusivamente en tu dispositivo</strong>. Nunca se envía a nuestros servidores ni a terceros. Si cierras o recargas la aplicación, los datos se eliminan.</li>
+    </ul>
+
+    <h2>2. Cómo Usamos la Información</h2>
+    <p>Utilizamos la información que introduces con un único propósito:</p>
+    <ul>
+        <li>Calcular y mostrarte quién debe dinero a quién para saldar las cuentas.</li>
+        <li>Generar un resumen de texto que puedes copiar voluntariamente al portapapeles de tu dispositivo para compartirlo con quien tú decidas.</li>
+    </ul>
+
+    <h2>3. Servicios de Terceros</h2>
+    <p>Para mejorar la apariencia visual y la funcionalidad, nuestra aplicación utiliza los siguientes servicios de terceros:</p>
+    <ul>
+        <li><strong>Google Fonts:</strong> Para cargar el tipo de letra de la aplicación. Al hacerlo, tu dirección IP puede ser enviada a los servidores de Google como parte del proceso estándar de comunicación en la web.</li>
+        <li><strong>Tailwind CSS (CDN):</strong> Para los estilos visuales de la aplicación.</li>
+    </ul>
+    <p>Estos servicios no tienen acceso a los datos personales (nombres, gastos) que introduces en la app.</p>
+
+    <h2>4. Seguridad</h2>
+    <p>Nos tomamos tu privacidad en serio. Al no almacenar tus datos personales fuera de tu dispositivo, minimizamos drásticamente cualquier riesgo de seguridad.</p>
+
+    <h2>5. Política para Niños</h2>
+    <p>Nuestra aplicación no está dirigida a menores de 13 años y no recopilamos intencionadamente información de ellos.</p>
+
+    <h2>6. Cambios en esta Política</h2>
+    <p>Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te notificaremos de cualquier cambio publicando la nueva política en esta misma página. Te recomendamos revisarla periódicamente.</p>
+
+    <div class="footer">
+        <h2>7. Contacto</h2>
+        <p>Si tienes alguna pregunta sobre esta Política de Privacidad, no dudes en contactarnos en la siguiente dirección de correo electrónico:</p>
+        <p><a href="mailto:eportiz6@gmail.com">eportiz6@gmail.com</a></p>
+    </div>
+
 </body>
 </html>
